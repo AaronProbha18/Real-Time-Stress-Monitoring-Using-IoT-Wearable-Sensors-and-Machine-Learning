@@ -1,0 +1,2 @@
+# Real-Time-Stress-Monitoring-Using-IoT-Wearable-Sensors-and-Machine-Learning
+This study explored wearables and machine learning for stress monitoring in women. Using physiological data, they trained models to categorize stress levels. The random forest model excelled with 88.5% accuracy in identifying stress from wearable sensor data. The findings showcase the capability of this approach for non-invasive stress evaluation.
